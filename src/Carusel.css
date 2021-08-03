@@ -31,6 +31,10 @@
   left: 45% !important; 
 } */
 
+.swiper-button-next, .swiper-button-prev {
+  position: absolute;
+  top: 40%;
+}
 
 .swiper-button-prev {
   background-image: url("https://img.icons8.com/material-rounded/96/000000/left-squared.png");
